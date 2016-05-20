@@ -1,4 +1,4 @@
-from ps4a import *
+from helper import *
 import time
 
 def compChooseWord(hand, wordList, n):
