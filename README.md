@@ -23,4 +23,6 @@ As another example, if n=7 and you make the word 'waybill' on the first try, it 
 ## Instruction
 Just download all the files and double click on the wordgame.py and the game will start.
 
+This game is compatible with Python 2.7
+
 ####Enjoy
